@@ -1,0 +1,7 @@
+测试方法
+1.在github中创建文件夹（带README），如test1
+2.ubuntu中git clone git@github.com:linfushou/test1.git
+3.添加test.txt，编辑内容
+4.git add test.txt
+5.git commit -m 'first commit test.txt'
+6.git push origin master
