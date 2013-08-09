@@ -5,3 +5,6 @@
 4.git add test.txt
 5.git commit -m 'first commit test.txt'
 6.git push origin master
+
+注意不能使用git remote add origin git@github.com:githubaccountname/hello_git.git来创建hello_git文件
+目前发现只有先在github.com中先创建文件夹，再clone进行文件操作
