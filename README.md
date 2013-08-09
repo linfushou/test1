@@ -1,4 +1,5 @@
 test1
 =====
 
-revise readme
+130809  revise readme -- use 'git push origin master'
+        revise test.txt no need to input 'git remote add origin git@github.com:githubaccountname/hello_git.git'
